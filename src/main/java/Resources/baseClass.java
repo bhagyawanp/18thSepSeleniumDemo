@@ -21,6 +21,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 //This will help us to write the browser related code 
+//test1
 public class baseClass {
 
 	 public static WebDriver driver;

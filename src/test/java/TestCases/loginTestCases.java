@@ -10,7 +10,7 @@ import PageObjectModel.homePageObjects;
 import PageObjectModel.loginPageObjects;
 import Resources.baseClass;
 import Resources.commonMethods;
-
+//test2
 public class loginTestCases extends baseClass {
 	
 	@Test
