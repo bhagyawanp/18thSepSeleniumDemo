@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-18T09:03:45 IST" name="Suite" finished-at="2024-12-18T09:03:57 IST" duration-ms="12099">
+    <groups>
+    </groups>
+    <test started-at="2024-12-18T09:03:45 IST" name="Test" finished-at="2024-12-18T09:03:57 IST" duration-ms="12099">
+      <class name="TestCases.loginTestCases">
+        <test-method is-config="true" signature="BrowserLaunchEveryTestCase()[pri:0, instance:TestCases.loginTestCases@28261e8e]" started-at="2024-12-18T09:03:53 IST" name="BrowserLaunchEveryTestCase" finished-at="2024-12-18T09:03:56 IST" duration-ms="2330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEveryTestCase -->
+        <test-method signature="verifyLoginWithValidData()[pri:0, instance:TestCases.loginTestCases@28261e8e]" started-at="2024-12-18T09:03:56 IST" name="verifyLoginWithValidData" finished-at="2024-12-18T09:03:57 IST" duration-ms="1333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidData -->
+        <test-method is-config="true" signature="BrowserCloseEveryTestCase()[pri:0, instance:TestCases.loginTestCases@28261e8e]" started-at="2024-12-18T09:03:57 IST" name="BrowserCloseEveryTestCase" finished-at="2024-12-18T09:03:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCloseEveryTestCase -->
+      </class> <!-- TestCases.loginTestCases -->
+      <class name="TestCases.RegisterTestCases">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:45 IST" name="setupReport" finished-at="2024-12-18T09:03:45 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="BrowserLaunchEveryTestCase()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:45 IST" name="BrowserLaunchEveryTestCase" finished-at="2024-12-18T09:03:48 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEveryTestCase -->
+        <test-method signature="VerifyRegistrationWithBlankData()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:48 IST" name="VerifyRegistrationWithBlankData" finished-at="2024-12-18T09:03:49 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegistrationWithBlankData -->
+        <test-method is-config="true" signature="BrowserCloseEveryTestCase()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:49 IST" name="BrowserCloseEveryTestCase" finished-at="2024-12-18T09:03:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCloseEveryTestCase -->
+        <test-method is-config="true" signature="BrowserLaunchEveryTestCase()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:49 IST" name="BrowserLaunchEveryTestCase" finished-at="2024-12-18T09:03:51 IST" duration-ms="2327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEveryTestCase -->
+        <test-method signature="VerifyRegistrationWithValidData()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:51 IST" name="VerifyRegistrationWithValidData" finished-at="2024-12-18T09:03:53 IST" depends-on-methods="TestCases.RegisterTestCases.VerifyRegistrationWithBlankData" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegistrationWithValidData -->
+        <test-method is-config="true" signature="BrowserCloseEveryTestCase()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:53 IST" name="BrowserCloseEveryTestCase" finished-at="2024-12-18T09:03:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCloseEveryTestCase -->
+        <test-method is-config="true" signature="endReporttest()[pri:0, instance:TestCases.RegisterTestCases@17f9d882]" started-at="2024-12-18T09:03:57 IST" name="endReporttest" finished-at="2024-12-18T09:03:57 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReporttest -->
+      </class> <!-- TestCases.RegisterTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
