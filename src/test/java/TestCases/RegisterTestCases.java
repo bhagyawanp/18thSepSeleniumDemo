@@ -89,7 +89,11 @@ public class RegisterTestCases extends baseClass {
 	  String CheckBoxActualResult = rpo.CheckBoxErrorMessage().getText();
 	  
       commonMethods.handleAssertion(CheckBoxActualResult, CheckBoxExpectedResult);	
+
       //Added test case by trupti
+
+
+
 	 }
 
 }
